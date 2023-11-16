@@ -24,7 +24,7 @@ public class App {
         System.out.println(multiplicacao);
         System.out.println(divisao);*/
 
-    //Criação de variáveis lógicos do tipo Boolean:
+    //Criação de variáveis do tipo Boolean com seus operadores lógicos:
 
         /*Tabela verdade
 
@@ -45,6 +45,9 @@ public class App {
          Boolean fazendoSol = false;
          Boolean vamosAPraia = fimDeSemana && fazendoSol;
          System.out.println(vamosAPraia);
+
+    //Operador ternário atribuído a variável boolean:
+    
          String mensagem = fimDeSemana ? "É fim de semana" : "Não é fim de semana";
          System.out.println(mensagem);*/
 
