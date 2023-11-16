@@ -1,14 +1,16 @@
 public class App {
     public static void main(String[] args) {
 
-       /* String nome;
+    //Criação de variáveis com Strings e Valores númericos:
+        
+        /* String nome;
         nome="Iago";
         nome="Théo";
         nome="Eliana";
 
         System.out.println("Hello, " + nome);*/
 
-         /*int a = 3;
+        /*int a = 3;
         int b = 2;
         int soma = a + b;
         int subtração = a - b;
@@ -19,6 +21,8 @@ public class App {
         System.out.println(subtração);
         System.out.println(multiplicacao);
         System.out.println(divisao);*/
+
+    //Criação de variáveis lógicos do tipo Boolean:
 
         /*Tabela verdade
 
@@ -35,7 +39,7 @@ public class App {
         false || true = true
         false || false = false*/
 
-        /*Boolean fimDeSemana = false;
+         /*Boolean fimDeSemana = false;
          Boolean fazendoSol = false;
          Boolean vamosAPraia = fimDeSemana && fazendoSol;
          System.out.println(vamosAPraia);
