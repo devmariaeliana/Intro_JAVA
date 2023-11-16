@@ -4,11 +4,13 @@ public class App {
     //Criação de variáveis com Strings e Valores númericos:
         
         /* String nome;
-        nome="Iago";
-        nome="Théo";
-        nome="Eliana";
+        nome="Maria";
+        nome="José";
+        nome="João";
 
-        System.out.println("Hello, " + nome);*/
+        //Neste caso vai aparecer na tela a última variável criada.
+
+        System.out.println("Hello, " + nome);*/ 
 
         /*int a = 3;
         int b = 2;
